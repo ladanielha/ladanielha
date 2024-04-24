@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladanielha&label=Profile%20views&color=0e75b6&style=flat" alt="ladanielha" /> </p>
 
-- 🌱 I’m currently learning **Laravel , React Native % Express **
+- 🌱 I’m currently learning **Laravel , MERN , Java **
 
 - 👯 I’m looking to collaborate on **Website Dev And Mobile Dev**
 
