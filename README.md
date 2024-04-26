@@ -3,20 +3,7 @@
    
    **Frontend Developer | Backend Developer** <br> <br>
    
-   <!-- Before post processer -->
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <rect id="_class_my-element_origin_144_234" data-name="#class=my-element, origin=144 234" x="144" y="234" width="148" height="148"/>
-  <rect id="_id_my-unique-element" data-name="#id=my-unique-element" x="316" y="234" width="148" height="148" fill="#29abe2"/>
-  <rect id="_class_my-element" data-name="#class=my-element" x="488" y="234" width="148" height="148" fill="#fbb03b"/>
-</svg>
-
-<!-- After post processer -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <rect id="my-unique-element" x="316" y="234" width="148" height="148" fill="#29abe2"/>
-  <rect class="my-element" data-svg-origin="144 234" x="144" y="234" width="148" height="148"/>
-  <rect class="my-element" x="488" y="234" width="148" height="148" fill="#fbb03b"/>
-</svg>
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&random=false&width=435&lines=Daniel+%7C+Web+or+Mobile+Application+%7C+Open+Work" alt="Typing SVG" /></a>
     
    
 </div>
