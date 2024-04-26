@@ -1,4 +1,4 @@
-<h1 align='center' style="color: red;">Welcome to My Profile . I'm Laurentius Daniel Handoyo‹</h1>
+<h1 align='center' style="color: red;">Welcome to My Profile . I'm Laurentius Daniel Handoyo</h1>
 <div align="center">
    
    **Frontend Developer | Backend Developer** <br> <br>
