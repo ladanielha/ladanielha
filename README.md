@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **laurentiusdaniel0@gmail.com**
 
-- Keep Learning new things
+- Newbie Learning new things 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
