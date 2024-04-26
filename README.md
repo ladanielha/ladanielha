@@ -2,7 +2,7 @@
 <div align="center">
    
    **Frontend Developer | Backend Developer** <br> <br>
-   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=ladanilha)](https://github.com/ldanielha)</a> 
+   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=ladanielha)](https://github.com/ldanielha)</a> 
     
    
 </div>
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laurentius daniel handoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurentius daniel handoyo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laurentiusdanielhandoyo30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurentius daniel handoyo" height="30" width="40" /></a>
 <a href="https://fb.com/laurentius daniel handoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laurentius daniel handoyo" height="30" width="40" /></a>
 </p>
 
