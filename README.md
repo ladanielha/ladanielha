@@ -1,4 +1,4 @@
-<h1 align='center' style="color: red;">Welcome to My Profile . I'm Laurentius Daniel Handoyo</h1>
+<h1 align='center' style="color: red;">Welcome to My Journey . I'm Laurentius Daniel Handoyo</h1>
 <div align="center">
    
    **Frontend Developer | Backend Developer** <br> <br>
@@ -18,6 +18,8 @@
 - 💬 Ask me about **Laravel, Javascript , React**
 
 - 📫 How to reach me **laurentiusdaniel0@gmail.com**
+
+- Keep Learning new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
