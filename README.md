@@ -5,7 +5,7 @@
    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&random=false&width=435&lines=Daniel+%7C+Web+or+Mobile+Application+%7C+Open+Work" alt="Typing SVG" /></a>
     
-
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladanielha&label=Profile%20views&color=0e75b6&style=flat" alt="ladanielha" /> </p>
 
