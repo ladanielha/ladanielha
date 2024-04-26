@@ -7,7 +7,7 @@
     
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ladanielha&label=Profile%20views&color=0e75b6&style=flat" alt="ladanielha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ladanielha&label=Profile%20views&color=0e75b6&style=flat" alt="ladanielha" /> </p>
 
 - 🌱 I’m currently learning and focus on **Laravel , JavaScript, MERN **
 
