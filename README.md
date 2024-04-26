@@ -2,7 +2,7 @@
 <div align="center">
    
    **Frontend Developer | Backend Developer** <br> <br>
-   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=ladanielha)](https://github.com/ldanielha)</a> 
+ 
     
    
 </div>
