@@ -22,7 +22,7 @@
 </div>
 <p align='center'> 
    
-   <img src=""/>
+   <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&random=false&width=435&lines=Daniel+%7C+Web+or+Mobile+Application+%7C+Open+Work)](https://git.io/typing-svg)"/>
 </p>
 
 
