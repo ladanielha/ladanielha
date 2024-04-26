@@ -14,13 +14,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladanielha&label=Profile%20views&color=0e75b6&style=flat" alt="ladanielha" /> </p>
 
-- 🌱 I’m currently learning **Laravel , MERN , Java **
+- 🌱 I’m currently learning and focus on **Laravel , JavaScript, MERN **
 
 - 👯 I’m looking to collaborate on **Website Dev And Mobile Dev**
 
 - 🤝 I’m looking for help with **Mobile Dev**
 
-- 💬 Ask me about **Laravel ,  Javascript , React**
+- 💬 Ask me about **Laravel, Javascript , React**
 
 - 📫 How to reach me **laurentiusdaniel0@gmail.com**
 
