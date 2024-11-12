@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning and focus on **Laravel , JavaScript*
 
-- 👯 I’m looking to collaborate on **Website Dev And Mobile Dev**
+- 👯 I’m looking to collaborate on **Website Dev**
 
-- 🤝 I’m looking for help with **Mobile Dev**
+- 🤝 I’m looking for help with **Bakcend and  Dev Ops**
 
 - 💬 Ask me about **Laravel, Javascript , React**
 
 - 📫 How to reach me **laurentiusdaniel0@gmail.com**
 
-- Newbie Learning new things 
+- I'm Newbie still need learning 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
