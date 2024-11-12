@@ -23,10 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/laurentiusdanielhandoyo30/" target="blank"><img align="center" src="https://github.com/ladanielha/ladanielha/blob/main/linkedin_icon.png" alt="laurentiusdanielhandoyo30" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laurentiusdanielhandoyo30/" target="blank"><img align="center" src="https://github.com/ladanielha/ladanielha/blob/main/linkedin_icon.png" alt="laurentiusdanielhandoyo30" height="40" width="40" /></a>
 <a href="https://fb.com/laurentius daniel handoyo" target="blank"><img align="center" src="https://github.com/ladanielha/ladanielha/blob/main/fb_icon.png" alt="laurentius daniel handoyo" height="40" width="40" /></a>
-</p>
-<a href="https://www.instagram.com/laurentiusdaniel.zip" target="blank"><img align="center" src="https://github.com/ladanielha/ladanielha/blob/main/fb_icon.png" alt="laurentiusdaniel.zip" height="30" width="40" /></a>
+<a href="https://www.instagram.com/laurentiusdaniel.zip" target="blank"><img align="center" src="https://github.com/ladanielha/ladanielha/blob/main/ig_icon.png" alt="laurentiusdaniel.zip" height="40" width="40" /></a>
 </p>
 
 
