@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/laurentiusdanielhandoyo30/" target="blank"><img align="center" src="" alt="laurentius daniel handoyo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laurentiusdanielhandoyo30/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="laurentius daniel handoyo" height="30" width="40" /></a>
 <a href="https://fb.com/laurentius daniel handoyo" target="blank"><img align="center" src="" alt="laurentius daniel handoyo" height="30" width="40" /></a>
 </p>
 <a href="https://www.instagram.com/laurentiusdaniel.zip" target="blank"><img align="center" src="" alt="laurentius daniel handoyo" height="30" width="40" /></a>
