@@ -39,3 +39,5 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladanielha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladanielha&layout=compact)
